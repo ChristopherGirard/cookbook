@@ -1,0 +1,28 @@
+Main Ressources:
+https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents
+https://en.wikibooks.org/wiki/Cookbook:Cooking_Techniques
+https://en.wikibooks.org/wiki/Cookbook:Equipment
+https://en.wikibooks.org/wiki/Cookbook:Recipes
+
+Ingredients:
+
+https://en.wikibooks.org/wiki/Cookbook:Ingredients
+
+Units:
+https://en.wikibooks.org/wiki/Cookbook:Units_of_measurement
+
+Titles:
+https://en.wikibooks.org/wiki/Cookbook:Recipes (still a main ressource, there are several categories)
+
+Exemple of Output
+https://en.wikibooks.org/wiki/Cookbook:Pizza_Vanegas
+
+Review articles:
+https://www.nytimes.com/column/restaurant-review
+https://www.nytimes.com/2019/01/08/dining/momofuku-bang-bar-review.html
+https://www.nytimes.com/2018/11/06/dining/mamas-too-review.html
+https://www.nytimes.com/2018/11/13/dining/misi-restaurant-review.html
+
+Other:
+http://www.gutenberg.org/files/31534/31534-h/31534-h.htm
+(This link has "Process:" before each process, could be useful)
