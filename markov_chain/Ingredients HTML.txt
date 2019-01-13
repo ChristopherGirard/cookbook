@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cookbook:Ingredients - Wikibooks, open books for an open world</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Cookbook","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":102,"wgPageName":"Cookbook:Ingredients","wgTitle":"Ingredients","wgCurRevisionId":3357193,"wgRevisionId":3357193,"wgArticleId":15862,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cookbook","Ingredients"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cookbook:Ingredients","wgRelevantArticleId":15862,"wgRequestId":"XDbLRQpAICgAAIlhkCAAAADD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"value":{"levels":3,"quality":2,"pristine":3}}},"wgStableRevisionId":3357193,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":false,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikibooks","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.wikidialog","ext.gadget.commons-file","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.12"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikibooks.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikibooks (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikibooks.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikibooks Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikibooks.org/wiki/Cookbook:Ingredients"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-102 ns-subject mw-editable page-Cookbook_Ingredients rootpage-Cookbook_Ingredients skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Cookbook:Ingredients</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikibooks, open books for an open world</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a href="/wiki/Cookbook:Table_of_Contents" title="Cookbook:Table of Contents">Cookbook</a> | <a href="/wiki/Category:Recipes" title="Category:Recipes">Recipes</a> | <a href="/wiki/Category:Ingredients" title="Category:Ingredients">Ingredients</a>
+</p><p><b>Ingredients</b> are listed alphabetically and also alphabetically by subcategory. For a more complete listing, see <a href="/wiki/Category:Ingredients" title="Category:Ingredients">Category:Ingredients</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#A"><span class="tocnumber">1</span> <span class="toctext">A</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#B"><span class="tocnumber">2</span> <span class="toctext">B</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#C"><span class="tocnumber">3</span> <span class="toctext">C</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#D"><span class="tocnumber">4</span> <span class="toctext">D</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#E"><span class="tocnumber">5</span> <span class="toctext">E</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#F"><span class="tocnumber">6</span> <span class="toctext">F</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#G"><span class="tocnumber">7</span> <span class="toctext">G</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#H"><span class="tocnumber">8</span> <span class="toctext">H</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#I"><span class="tocnumber">9</span> <span class="toctext">I</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#J"><span class="tocnumber">10</span> <span class="toctext">J</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#K"><span class="tocnumber">11</span> <span class="toctext">K</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#L"><span class="tocnumber">12</span> <span class="toctext">L</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#M"><span class="tocnumber">13</span> <span class="toctext">M</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#N"><span class="tocnumber">14</span> <span class="toctext">N</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#O"><span class="tocnumber">15</span> <span class="toctext">O</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#P"><span class="tocnumber">16</span> <span class="toctext">P</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#R"><span class="tocnumber">17</span> <span class="toctext">R</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#S"><span class="tocnumber">18</span> <span class="toctext">S</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#T"><span class="tocnumber">19</span> <span class="toctext">T</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#U"><span class="tocnumber">20</span> <span class="toctext">U</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#V"><span class="tocnumber">21</span> <span class="toctext">V</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#W"><span class="tocnumber">22</span> <span class="toctext">W</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#X"><span class="tocnumber">23</span> <span class="toctext">X</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Y"><span class="tocnumber">24</span> <span class="toctext">Y</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Z"><span class="tocnumber">25</span> <span class="toctext">Z</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Acorn_Squash" title="Cookbook:Acorn Squash">Acorn squash</a></li>
+<li><a href="/wiki/Cookbook:Alfalfa" title="Cookbook:Alfalfa">Alfalfa Sprouts</a></li>
+<li><a href="/wiki/Cookbook:Anchovy" title="Cookbook:Anchovy">Anchovies</a></li>
+<li><a href="/wiki/Cookbook:Apple" title="Cookbook:Apple">Apples</a></li>
+<li><a href="/wiki/Cookbook:Artichoke" title="Cookbook:Artichoke">Artichoke</a></li>
+<li><a href="/wiki/Cookbook:Arugula" title="Cookbook:Arugula">Arugula</a></li>
+<li><a href="/wiki/Cookbook:Asparagus" title="Cookbook:Asparagus">Asparagus</a></li>
+<li><a href="/wiki/Cookbook:Aubergine" class="mw-redirect" title="Cookbook:Aubergine">Aubergine</a></li>
+<li><a href="/wiki/Cookbook:Avocado" title="Cookbook:Avocado">Avocado</a></li></ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Bacon" title="Cookbook:Bacon">Bacon</a></li>
+<li><a href="/wiki/Cookbook:Baking_Powder" title="Cookbook:Baking Powder">Baking powder</a></li>
+<li><a href="/wiki/Cookbook:Baking_Soda" title="Cookbook:Baking Soda">Baking soda</a></li>
+<li><a href="/wiki/Cookbook:Caster_Sugar" class="mw-redirect" title="Cookbook:Caster Sugar">Baking sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_Sugar" class="mw-redirect" title="Cookbook:Caster Sugar">Bar sugar</a></li>
+<li><a href="/wiki/Cookbook:Basil" title="Cookbook:Basil">Basil</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Bell peppers</a></li>
+<li><a href="/wiki/Cookbook:Blackberry" title="Cookbook:Blackberry">Blackberries</a></li>
+<li><a href="/wiki/Cookbook:Brassicas" title="Cookbook:Brassicas">Brassicas</a> (Cabbage family)
+<ul><li><a href="/wiki/Cookbook:Bok_Choy" title="Cookbook:Bok Choy">Bok choy</a></li>
+<li><a href="/wiki/Cookbook:Broccoflower" title="Cookbook:Broccoflower">Broccoflower</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli" title="Cookbook:Broccoli">Broccoli</a></li>
+<li><a href="/wiki/Cookbook:Broccolini" title="Cookbook:Broccolini">Broccolini</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli_rabe" class="mw-redirect" title="Cookbook:Broccoli rabe">Broccoli rabe</a></li>
+<li><a href="/wiki/Cookbook:Brussels_Sprout" title="Cookbook:Brussels Sprout">Brussels Sprouts</a></li>
+<li><a href="/wiki/Cookbook:Cabbage" title="Cookbook:Cabbage">Cabbage</a></li>
+<li><a href="/wiki/Cookbook:Cauliflower" title="Cookbook:Cauliflower">Cauliflower</a></li>
+<li><a href="/wiki/Cookbook:Chinese_Leaves" title="Cookbook:Chinese Leaves">Chinese leaves</a></li>
+<li><a href="/wiki/Cookbook:Collard_Green" class="mw-redirect" title="Cookbook:Collard Green">Collard greens</a></li>
+<li><a href="/wiki/Cookbook:Kohlrabi" title="Cookbook:Kohlrabi">Kohlrabi</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Bread" title="Cookbook:Bread">Bread</a></li>
+<li><a href="/wiki/Cookbook:Breadfruit" title="Cookbook:Breadfruit">Breadfruit</a></li>
+<li><a href="/wiki/Cookbook:Broad_Bean" title="Cookbook:Broad Bean">Broad beans</a></li>
+<li><a href="/wiki/Cookbook:Broccoflower" title="Cookbook:Broccoflower">Broccoflower</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli" title="Cookbook:Broccoli">Broccoli</a></li>
+<li><a href="/wiki/Cookbook:Broccolini" title="Cookbook:Broccolini">Broccolini</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli_rabe" class="mw-redirect" title="Cookbook:Broccoli rabe">Broccoli rabe</a></li>
+<li><a href="/wiki/Cookbook:Brown_Sugar" title="Cookbook:Brown Sugar">Brown sugar</a></li>
+<li><a href="/wiki/Cookbook:Brussels_Sprout" title="Cookbook:Brussels Sprout">Brussels sprouts</a></li>
+<li><a href="/wiki/Cookbook:Butter" title="Cookbook:Butter">Butter</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut squash</a></li></ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Cabbage" title="Cookbook:Cabbage">Cabbage</a></li>
+<li><a href="/wiki/Cookbook:Edible_Cactus" title="Cookbook:Edible Cactus">Cactus, Edible</a></li>
+<li><a href="/wiki/Cookbook:Calabrese" class="mw-redirect" title="Cookbook:Calabrese">Calabrese</a></li>
+<li><a href="/wiki/Cookbook:Cannabis" title="Cookbook:Cannabis">Cannabis</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Capsicum</a></li>
+<li><a href="/wiki/Cookbook:Caraway" title="Cookbook:Caraway">Caraway</a></li>
+<li><a href="/wiki/Cookbook:Carrot" title="Cookbook:Carrot">Carrot</a></li>
+<li><a href="/wiki/Cookbook:Castor_sugar" class="mw-redirect" title="Cookbook:Castor sugar">Castor sugar</a></li>
+<li><a href="/wiki/Cookbook:Cauliflower" title="Cookbook:Cauliflower">Cauliflower</a></li>
+<li><a href="/wiki/Cookbook:Cayenne_pepper" class="mw-redirect" title="Cookbook:Cayenne pepper">Cayenne pepper</a></li>
+<li><a href="/wiki/Cookbook:Celeriac" class="mw-redirect" title="Cookbook:Celeriac">Celeriac</a></li>
+<li><a href="/wiki/Cookbook:Celery" title="Cookbook:Celery">Celery</a></li>
+<li><a href="/wiki/Cookbook:Cereal_Grain" title="Cookbook:Cereal Grain">Cereal Grains</a>
+<ul><li><a href="/wiki/Cookbook:Bread" title="Cookbook:Bread">Bread</a></li>
+<li><a href="/wiki/Cookbook:Rice" title="Cookbook:Rice">Rice</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Chard" class="mw-redirect" title="Cookbook:Chard">Chard</a></li>
+<li><a href="/wiki/Cookbook:Cheese" title="Cookbook:Cheese">Cheese</a></li>
+<li><a href="/wiki/Cookbook:Chicory" title="Cookbook:Chicory">Chicory</a></li>
+<li><a href="/wiki/Cookbook:Chilli_Pepper" class="mw-redirect" title="Cookbook:Chilli Pepper">Chilli peppers</a></li>
+<li><a href="/wiki/Cookbook:Chinese_Leaves" title="Cookbook:Chinese Leaves">Chinese Leaves</a></li>
+<li><a href="/wiki/Cookbook:Chives" class="mw-redirect" title="Cookbook:Chives">Chives</a></li>
+<li><a href="/wiki/Cookbook:Chocolate" title="Cookbook:Chocolate">Chocolate</a></li>
+<li><a href="/wiki/Cookbook:Cilantro" title="Cookbook:Cilantro">Cilantro</a></li>
+<li><a href="/wiki/Cookbook:Cinnamon" title="Cookbook:Cinnamon">Cinnamon</a></li>
+<li><a href="/wiki/Cookbook:Clarified_butter" class="mw-redirect" title="Cookbook:Clarified butter">Clarified butter</a></li>
+<li><a href="/wiki/Cookbook:Coconut" title="Cookbook:Coconut">Coconut</a></li>
+<li><a href="/wiki/Cookbook:Coconut_Milk" title="Cookbook:Coconut Milk">Coconut milk</a></li>
+<li><a href="/wiki/Cookbook:Coffee" title="Cookbook:Coffee">Coffee</a></li>
+<li><a href="/wiki/Cookbook:Collard_Green" class="mw-redirect" title="Cookbook:Collard Green">Collard greens</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Confectioners' sugar</a></li>
+<li><a href="/wiki/Cookbook:Coriander" title="Cookbook:Coriander">Coriander</a></li>
+<li><a href="/wiki/Cookbook:Corn" title="Cookbook:Corn">Corn</a></li>
+<li><a href="/wiki/Cookbook:Corn_Syrup" title="Cookbook:Corn Syrup">Corn syrup</a></li>
+<li><a href="/wiki/Cookbook:Cottonseed_Oil" title="Cookbook:Cottonseed Oil">Cottonseed oil</a></li>
+<li><a href="/wiki/Cookbook:Courgette" class="mw-redirect" title="Cookbook:Courgette">Courgette</a></li>
+<li><a href="/wiki/Cookbook:Cream_of_Tartar" title="Cookbook:Cream of Tartar">Cream of tartar</a></li>
+<li><a href="/wiki/Cookbook:Cucumber" title="Cookbook:Cucumber">Cucumber</a></li>
+<li><a href="/wiki/Cookbook:Cumin" title="Cookbook:Cumin">Cumin</a></li></ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Daikon" title="Cookbook:Daikon">Daikon</a></li>
+<li><a href="/wiki/Cookbook:Dairy" title="Cookbook:Dairy">Dairy products and dairy substitutes</a>
+<ul><li><a href="/wiki/Cookbook:Butter" title="Cookbook:Butter">Butter</a></li>
+<li><a href="/wiki/Cookbook:Clarified_butter" class="mw-redirect" title="Cookbook:Clarified butter">Clarified butter</a></li>
+<li><a href="/wiki/Cookbook:Egg" title="Cookbook:Egg">Eggs</a></li>
+<li><a href="/wiki/Cookbook:Ghee" title="Cookbook:Ghee">Ghee</a></li>
+<li><a href="/wiki/Cookbook:Milk" title="Cookbook:Milk">Milk</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Dandelion" title="Cookbook:Dandelion">Dandelion</a></li>
+<li><a href="/wiki/Cookbook:Demerara_Sugar" title="Cookbook:Demerara Sugar">Demerara sugar</a></li>
+<li><a href="/wiki/Cookbook:Dough" title="Cookbook:Dough">Dough</a></li></ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Edible_Cactus" title="Cookbook:Edible Cactus">Edible Cactus</a></li>
+<li><a href="/wiki/Cookbook:Egg" title="Cookbook:Egg">Eggs</a></li>
+<li><a href="/wiki/Cookbook:Eggplant" title="Cookbook:Eggplant">Eggplant</a></li>
+<li><a href="/wiki/Cookbook:Endive" title="Cookbook:Endive">Endive</a></li></ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Oil_and_fat" class="mw-redirect" title="Cookbook:Oil and fat">Fats</a>
+<ul><li><a href="/wiki/Cookbook:Butter" title="Cookbook:Butter">Butter</a></li>
+<li><a href="/wiki/Cookbook:Spek" title="Cookbook:Spek">Spek</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Fava_Bean" title="Cookbook:Fava Bean">Fava Beans</a></li>
+<li><a href="/wiki/Cookbook:Fiddlehead" title="Cookbook:Fiddlehead">Fiddlehead</a> (young coiled fern leaves)</li>
+<li><a href="/wiki/Cookbook:Fish" title="Cookbook:Fish">Fish</a>
+<ul><li><a href="/wiki/Cookbook:Anchovy" title="Cookbook:Anchovy">Anchovies</a></li>
+<li><a href="/wiki/Cookbook:Catfish" title="Cookbook:Catfish">catfish (farm-raised)</a></li>
+<li><a href="/wiki/Cookbook:Cod" title="Cookbook:Cod">Cod</a>
+<ul><li><a href="/wiki/Cookbook:Salt_cod" title="Cookbook:Salt cod">Salt cod</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Salmon" title="Cookbook:Salmon">Salmon</a></li>
+<li><a href="/wiki/Cookbook:Skate" title="Cookbook:Skate">Skate</a></li>
+<li><a href="/w/index.php?title=Cookbook:Stockfish&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Stockfish (does not exist)">Stockfish</a></li>
+<li><a href="/wiki/Cookbook:Trout" title="Cookbook:Trout">Trout</a></li>
+<li><a href="/wiki/Cookbook:Tuna" title="Cookbook:Tuna">Tuna</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Five_Spice_Powder" title="Cookbook:Five Spice Powder">Five Spice Powder</a></li>
+<li><a href="/wiki/Cookbook:Flour" title="Cookbook:Flour">Flour</a></li>
+<li><a href="/wiki/Cookbook:Frisee" title="Cookbook:Frisee">Frisee</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fructose</a></li>
+<li><a href="/wiki/Cookbook:Fruit" title="Cookbook:Fruit">Fruit</a>
+<ul><li><a href="/wiki/Cookbook:Apple" title="Cookbook:Apple">Apple</a></li>
+<li><a href="/wiki/Cookbook:Blackberry" title="Cookbook:Blackberry">Blackberries</a></li>
+<li><a href="/wiki/Cookbook:Breadfruit" title="Cookbook:Breadfruit">Breadfruit</a></li>
+<li><a href="/wiki/Cookbook:Coconut" title="Cookbook:Coconut">Coconut</a></li>
+<li><a href="/wiki/Cookbook:Orange" title="Cookbook:Orange">Oranges</a></li>
+<li><a href="/wiki/Cookbook:Pear" title="Cookbook:Pear">Pear</a></li>
+<li><a href="/wiki/Cookbook:Tomato" title="Cookbook:Tomato">Tomato</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fruit sugar</a></li></ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Garam_masala" class="mw-redirect" title="Cookbook:Garam masala">Garam masala</a></li>
+<li><a href="/wiki/Cookbook:Garlic" title="Cookbook:Garlic">Garlic</a></li>
+<li><a href="/wiki/Cookbook:Gem_squash" class="mw-redirect" title="Cookbook:Gem squash">Gem squash</a></li>
+<li><a href="/wiki/Cookbook:Ghee" title="Cookbook:Ghee">Ghee</a></li>
+<li><a href="/wiki/Cookbook:Ginger" title="Cookbook:Ginger">Ginger</a></li>
+<li><a href="/wiki/Cookbook:Giblets" title="Cookbook:Giblets">Giblets</a></li>
+<li><a href="/wiki/Cookbook:Cereal_Grain" title="Cookbook:Cereal Grain">Grains</a>
+<ul><li><a href="/wiki/Cookbook:Bread" title="Cookbook:Bread">Bread</a></li>
+<li><a href="/wiki/Cookbook:Corn" title="Cookbook:Corn">Corn</a></li>
+<li><a href="/wiki/Cookbook:Maize" class="mw-redirect" title="Cookbook:Maize">Maize</a></li>
+<li><a href="/wiki/Cookbook:Rice" title="Cookbook:Rice">Rice</a></li>
+<li><a href="/wiki/Cookbook:Sweetcorn" class="mw-redirect" title="Cookbook:Sweetcorn">Sweetcorn</a></li>
+<li><a href="/wiki/Cookbook:Teff" title="Cookbook:Teff">Teff</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Grape_Seed_Oil" title="Cookbook:Grape Seed Oil">Grape seed oil</a></li>
+<li><a href="/wiki/Cookbook:Green_onion" class="mw-redirect" title="Cookbook:Green onion">Green onion</a></li></ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Heart_of_Palm" title="Cookbook:Heart of Palm">Heart of Palm</a></li>
+<li><a href="/wiki/Cookbook:Cannabis" title="Cookbook:Cannabis">Hemp</a></li>
+<li><a href="/wiki/Cookbook:Spices_and_herbs" class="mw-redirect" title="Cookbook:Spices and herbs">Herbs</a>
+<ul><li><a href="/wiki/Cookbook:Basil" title="Cookbook:Basil">Basil</a></li>
+<li><a href="/wiki/Cookbook:Chives" class="mw-redirect" title="Cookbook:Chives">Chives</a></li>
+<li><a href="/wiki/Cookbook:Cilantro" title="Cookbook:Cilantro">Cilantro</a></li>
+<li><a href="/wiki/Cookbook:Coriander" title="Cookbook:Coriander">Coriander</a></li>
+<li><a href="/wiki/Cookbook:Oregano" title="Cookbook:Oregano">Oregano</a></li>
+<li><a href="/wiki/Cookbook:Parsley" title="Cookbook:Parsley">Parsley</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Honey" title="Cookbook:Honey">Honey</a></li>
+<li><a href="/wiki/Cookbook:Horse" title="Cookbook:Horse">Horse</a></li></ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Icing sugar</a></li>
+<li><a href="/wiki/Cookbook:Isomalt" title="Cookbook:Isomalt">Isomalt</a></li></ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Jackfruit" title="Cookbook:Jackfruit">Jackfruit</a></li>
+<li><a href="/wiki/Cookbook:Jaggery" title="Cookbook:Jaggery">Jaggery</a></li>
+<li><a href="/wiki/Cookbook:Jams_and_Jellies" title="Cookbook:Jams and Jellies">Jams</a></li>
+<li><a href="/wiki/Cookbook:Jams_and_Jellies" title="Cookbook:Jams and Jellies">Jellies</a></li>
+<li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Jerusalem artichoke</a></li>
+<li><a href="/wiki/Cookbook:Jicama" title="Cookbook:Jicama">Jicama</a></li></ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Kale" title="Cookbook:Kale">Kale</a></li>
+<li><a href="/wiki/Cookbook:Kohlrabi" title="Cookbook:Kohlrabi">Kohlrabi</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Kumara</a></li></ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Leavening_Agent" title="Cookbook:Leavening Agent">Leavening agents</a>
+<ul><li><a href="/wiki/Cookbook:Baking_Powder" title="Cookbook:Baking Powder">Baking powder</a></li>
+<li><a href="/wiki/Cookbook:Baking_Soda" title="Cookbook:Baking Soda">Baking soda</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Leek" title="Cookbook:Leek">Leek</a></li>
+<li><a href="/wiki/Cookbook:Legume" class="mw-redirect" title="Cookbook:Legume">Legumes</a> (Beans and Peas)
+<ul><li><a href="/wiki/Cookbook:Pea" title="Cookbook:Pea">Peas</a></li>
+<li><a href="/wiki/Cookbook:Bean" class="mw-redirect" title="Cookbook:Bean">Beans</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Lentil" title="Cookbook:Lentil">Lentils</a></li>
+<li><a href="/wiki/Cookbook:Lemongrass" title="Cookbook:Lemongrass">Lemongrass</a></li>
+<li><a href="/wiki/Cookbook:Lettuce" title="Cookbook:Lettuce">Lettuce</a></li>
+<li><a href="/wiki/Cookbook:Liver" title="Cookbook:Liver">Liver</a></li></ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Maize" class="mw-redirect" title="Cookbook:Maize">Maize</a></li>
+<li><a href="/wiki/Cookbook:Maple_Syrup" title="Cookbook:Maple Syrup">Maple syrup</a></li>
+<li><a href="/wiki/Cookbook:Meat_and_Poultry" title="Cookbook:Meat and Poultry">Meat</a></li>
+<li><a href="/wiki/Cookbook:Milk" title="Cookbook:Milk">Milk</a></li>
+<li><a href="/wiki/Cookbook:Mortadella" title="Cookbook:Mortadella">Mortadella</a></li>
+<li><a href="/wiki/Cookbook:Mushroom" title="Cookbook:Mushroom">Mushroom</a>
+<ul><li><a href="/wiki/Cookbook:White_mushroom" class="mw-redirect" title="Cookbook:White mushroom">White mushroom</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Mussel" title="Cookbook:Mussel">Mussels</a></li></ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Nori" title="Cookbook:Nori">Nori</a></li>
+<li><a href="/wiki/Cookbook:Nutmeg" title="Cookbook:Nutmeg">Nutmeg</a></li>
+<li><a href="/wiki/Cookbook:Nutritional_Yeast_Flakes" title="Cookbook:Nutritional Yeast Flakes">Nutritional Yeast Flakes</a></li>
+<li><a href="/wiki/Cookbook:Nuts_and_seeds" class="mw-redirect" title="Cookbook:Nuts and seeds">Nuts</a></li>
+<li><a href="/w/index.php?title=Cookbook:Nanaimo_Bar_Mix&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Nanaimo Bar Mix (does not exist)">Nanaimo Bar Mix</a></li></ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Octopus" title="Cookbook:Octopus">Octopuses</a></li>
+<li><a href="/wiki/Cookbook:Oil_and_fat" class="mw-redirect" title="Cookbook:Oil and fat">Oils</a>
+<ul><li><a href="/wiki/Cookbook:Clarified_butter" class="mw-redirect" title="Cookbook:Clarified butter">Clarified butter</a></li>
+<li><a href="/wiki/Cookbook:Cottonseed_Oil" title="Cookbook:Cottonseed Oil">Cottonseed oil</a></li>
+<li><a href="/wiki/Cookbook:Ghee" title="Cookbook:Ghee">Ghee</a></li>
+<li><a href="/wiki/Cookbook:Grape_Seed_Oil" title="Cookbook:Grape Seed Oil">Grape seed oil</a></li>
+<li><a href="/wiki/Cookbook:Olive_oil" class="mw-redirect" title="Cookbook:Olive oil">Olive oil</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Okra" title="Cookbook:Okra">Okra</a></li>
+<li><a href="/wiki/Cookbook:Olive" title="Cookbook:Olive">Olive</a></li>
+<li><a href="/wiki/Cookbook:Olive_oil" class="mw-redirect" title="Cookbook:Olive oil">Olive oil</a></li>
+<li><a href="/wiki/Cookbook:Onion" title="Cookbook:Onion">Onion</a> family
+<ul><li><a href="/wiki/Cookbook:Chives" class="mw-redirect" title="Cookbook:Chives">Chives</a></li>
+<li><a href="/wiki/Cookbook:Garlic" title="Cookbook:Garlic">Garlic</a></li>
+<li><a href="/wiki/Cookbook:Green_onion" class="mw-redirect" title="Cookbook:Green onion">Green onion</a></li>
+<li><a href="/wiki/Cookbook:Leek" title="Cookbook:Leek">Leek</a></li>
+<li><a href="/wiki/Cookbook:Onion" title="Cookbook:Onion">Onion</a></li>
+<li><a href="/wiki/Cookbook:Scallion" class="mw-redirect" title="Cookbook:Scallion">Scallion</a></li>
+<li><a href="/wiki/Cookbook:Shallot" title="Cookbook:Shallot">Shallot</a></li>
+<li><a href="/wiki/Cookbook:Spring_Onion" class="mw-redirect" title="Cookbook:Spring Onion">Spring onion</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Orange" title="Cookbook:Orange">Oranges</a></li>
+<li><a href="/w/index.php?title=Cookbook:Orange_Blossom_Water&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Orange Blossom Water (does not exist)">Orange Blossom Water</a></li>
+<li><a href="/wiki/Cookbook:Oregano" title="Cookbook:Oregano">Oregano</a></li>
+<li><a href="/wiki/Cookbook:Oyster" title="Cookbook:Oyster">Oysters</a></li></ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Panch_Puran" class="mw-redirect" title="Cookbook:Panch Puran">Panch Puran</a></li>
+<li><a href="/wiki/Cookbook:Paprika" title="Cookbook:Paprika">Paprika</a></li>
+<li><a href="/wiki/Cookbook:Parsley" title="Cookbook:Parsley">Parsley</a></li>
+<li><a href="/wiki/Cookbook:Parsnip" title="Cookbook:Parsnip">Parsnip</a></li>
+<li><a href="/wiki/Cookbook:Pea" title="Cookbook:Pea">Peas</a></li>
+<li><a href="/wiki/Cookbook:Pepper" title="Cookbook:Pepper">Pepper</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Peppers</a></li>
+<li><a href="/wiki/Cookbook:Plantain" title="Cookbook:Plantain">Plantain</a></li>
+<li><a href="/wiki/Cookbook:Pineapple" title="Cookbook:Pineapple">Pineapple</a></li>
+<li><a href="/wiki/Cookbook:Poppy_Seed" title="Cookbook:Poppy Seed">Poppy Seeds</a></li>
+<li><a href="/wiki/Cookbook:Potato" title="Cookbook:Potato">Potatoes</a></li>
+<li><a href="/wiki/Cookbook:Meat_and_Poultry" title="Cookbook:Meat and Poultry">Poultry</a></li>
+<li><a href="/wiki/Cookbook:Powdered_sugar" class="mw-redirect" title="Cookbook:Powdered sugar">Powdered sugar</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin" title="Cookbook:Pumpkin">Pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin_Seed" title="Cookbook:Pumpkin Seed">Pumpkin Seeds</a></li></ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Radish" title="Cookbook:Radish">Radish</a></li>
+<li><a href="/wiki/Cookbook:Rape" title="Cookbook:Rape">Rape</a></li>
+<li><a href="/wiki/Cookbook:Raw_Sugar" title="Cookbook:Raw Sugar">Raw sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Refined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Refined sugar (does not exist)">Refined sugar</a></li>
+<li><a href="/wiki/Cookbook:Rice" title="Cookbook:Rice">Rice</a></li>
+<li><a href="/wiki/Cookbook:Rice_flour" class="mw-redirect" title="Cookbook:Rice flour">Rice flour</a></li>
+<li><a href="/wiki/Cookbook:Rock_Sugar" title="Cookbook:Rock Sugar">Rock sugar</a></li>
+<li>Root vegetables
+<ul><li><a href="/wiki/Cookbook:Carrot" title="Cookbook:Carrot">Carrot</a></li>
+<li><a href="/wiki/Cookbook:Celeriac" class="mw-redirect" title="Cookbook:Celeriac">Celeriac</a></li>
+<li><a href="/wiki/Cookbook:Daikon" title="Cookbook:Daikon">Daikon</a></li>
+<li><a href="/wiki/Cookbook:Ginger" title="Cookbook:Ginger">Ginger</a></li>
+<li><a href="/wiki/Cookbook:Radish" title="Cookbook:Radish">Radish</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Rum" title="Cookbook:Rum">Rum</a></li></ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Salmon" title="Cookbook:Salmon"> Salmon</a></li>
+<li><a href="/wiki/Cookbook:Salt" title="Cookbook:Salt">Salt</a></li>
+<li><a href="/wiki/Cookbook:Scallion" class="mw-redirect" title="Cookbook:Scallion">Scallion</a></li>
+<li><a href="/wiki/Cookbook:Seafood" title="Cookbook:Seafood">Seafood</a>
+<ul><li><a href="/wiki/Cookbook:Anchovy" title="Cookbook:Anchovy">Anchovies</a></li>
+<li><a href="/wiki/Cookbook:Mussel" title="Cookbook:Mussel">Mussels</a></li>
+<li><a href="/wiki/Cookbook:Octopus" title="Cookbook:Octopus">Octopuses</a></li>
+<li><a href="/wiki/Cookbook:Oyster" title="Cookbook:Oyster">Oysters</a></li>
+<li><a href="/wiki/Cookbook:Salmon" title="Cookbook:Salmon"> Salmon</a></li>
+<li><a href="/wiki/Cookbook:Trout" title="Cookbook:Trout">Trout</a></li>
+<li><a href="/wiki/Cookbook:Tuna" title="Cookbook:Tuna">Tuna</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Nuts_and_seeds" class="mw-redirect" title="Cookbook:Nuts and seeds">Seeds</a>
+<ul><li><a href="/wiki/Cookbook:Poppy_Seed" title="Cookbook:Poppy Seed">Poppy Seeds</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin_Seed" title="Cookbook:Pumpkin Seed">Pumpkin Seeds</a></li>
+<li><a href="/wiki/Cookbook:Sesame_Seed" title="Cookbook:Sesame Seed">Sesame Seeds</a></li>
+<li><a href="/wiki/Cookbook:Sunflower_Seeds" title="Cookbook:Sunflower Seeds">Sunflower Seeds</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Shallot" title="Cookbook:Shallot">Shallot</a></li>
+<li><a href="/wiki/Cookbook:Soda" title="Cookbook:Soda">Soda</a>
+<ul><li><a href="/wiki/Cookbook:Baking_Soda" title="Cookbook:Baking Soda">Soda, Baking</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Soybean" class="mw-redirect" title="Cookbook:Soybean">Soybean</a></li>
+<li><a href="/wiki/Cookbook:Spaghetti_Squash" title="Cookbook:Spaghetti Squash">Spaghetti squash</a></li>
+<li><a href="/wiki/Cookbook:Spek" title="Cookbook:Spek">Spek</a></li>
+<li><a href="/wiki/Cookbook:Spices_and_herbs" class="mw-redirect" title="Cookbook:Spices and herbs">Spices</a>
+<ul><li><a href="/wiki/Cookbook:Caraway" title="Cookbook:Caraway">Caraway</a></li>
+<li><a href="/wiki/Cookbook:Cayenne_pepper" class="mw-redirect" title="Cookbook:Cayenne pepper">Cayenne pepper</a></li>
+<li><a href="/wiki/Cookbook:Chilli_Pepper" class="mw-redirect" title="Cookbook:Chilli Pepper">Chilli peppers</a></li>
+<li><a href="/wiki/Cookbook:Cinnamon" title="Cookbook:Cinnamon">Cinnamon</a></li>
+<li><a href="/wiki/Cookbook:Coriander" title="Cookbook:Coriander">Coriander</a></li>
+<li><a href="/wiki/Cookbook:Cumin" title="Cookbook:Cumin">Cumin</a></li>
+<li><a href="/wiki/Cookbook:Five_Spice_Powder" title="Cookbook:Five Spice Powder">Five spice powder</a></li>
+<li><a href="/wiki/Cookbook:Garam_masala" class="mw-redirect" title="Cookbook:Garam masala">Garam masala</a></li>
+<li><a href="/wiki/Cookbook:Nutmeg" title="Cookbook:Nutmeg">Nutmeg</a></li>
+<li><a href="/wiki/Cookbook:Panch_Puran" class="mw-redirect" title="Cookbook:Panch Puran">Panch Puran</a></li>
+<li><a href="/wiki/Cookbook:Paprika" title="Cookbook:Paprika">Paprika</a></li>
+<li><a href="/wiki/Cookbook:Pepper" title="Cookbook:Pepper">Pepper</a></li>
+<li><a href="/wiki/Cookbook:Salt" title="Cookbook:Salt">Salt</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Spinach" title="Cookbook:Spinach">Spinach</a></li>
+<li><a href="/wiki/Cookbook:Spring_Onion" class="mw-redirect" title="Cookbook:Spring Onion">Spring onion</a></li>
+<li><a href="/wiki/Cookbook:Squash" title="Cookbook:Squash">Squash</a> family
+<ul><li><a href="/wiki/Cookbook:Acorn_Squash" title="Cookbook:Acorn Squash">Acorn squash</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut squash</a></li>
+<li><a href="/wiki/Cookbook:Courgette" class="mw-redirect" title="Cookbook:Courgette">Courgette</a></li>
+<li><a href="/wiki/Cookbook:Cucumber" title="Cookbook:Cucumber">Cucumber</a></li>
+<li><a href="/wiki/Cookbook:Gem_squash" class="mw-redirect" title="Cookbook:Gem squash">Gem squash</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin" title="Cookbook:Pumpkin">Pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Spaghetti_Squash" title="Cookbook:Spaghetti Squash">Spaghetti squash</a></li>
+<li><a href="/wiki/Cookbook:Squash" title="Cookbook:Squash">Squash</a></li>
+<li><a href="/wiki/Cookbook:Zucchini" title="Cookbook:Zucchini">Zucchini</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Sugar" title="Cookbook:Sugar">Sugar</a>
+<ul><li><a href="/wiki/Cookbook:Brown_Sugar" title="Cookbook:Brown Sugar">Brown sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_Sugar" class="mw-redirect" title="Cookbook:Caster Sugar">Caster sugar</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Confectioners' sugar</a></li>
+<li><a href="/wiki/Cookbook:Demerara_Sugar" title="Cookbook:Demerara Sugar">Demerara sugar</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fructose</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fruit sugar</a></li>
+<li><a href="/wiki/Cookbook:Granulated_Sugar" title="Cookbook:Granulated Sugar">Granulated sugar</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Icing sugar</a></li>
+<li><a href="/wiki/Cookbook:Jaggery" title="Cookbook:Jaggery">Jaggery</a></li>
+<li><a href="/wiki/Cookbook:Powdered_sugar" class="mw-redirect" title="Cookbook:Powdered sugar">Powdered sugar</a></li>
+<li><a href="/wiki/Cookbook:Raw_Sugar" title="Cookbook:Raw Sugar">Raw sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Refined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Refined sugar (does not exist)">Refined sugar</a></li>
+<li><a href="/wiki/Cookbook:Rock_Sugar" title="Cookbook:Rock Sugar">Rock sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Superfine sugar</a></li>
+<li><a href="/wiki/Cookbook:Turbanado_sugar" class="mw-redirect" title="Cookbook:Turbanado sugar">Turbanado sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Unrefined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Unrefined sugar (does not exist)">Unrefined sugar</a></li>
+<li><a href="/wiki/Cookbook:White_sugar" class="mw-redirect" title="Cookbook:White sugar">White sugar</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Sunflower_Seeds" title="Cookbook:Sunflower Seeds">Sunflower Seeds</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Superfine sugar</a></li>
+<li><a href="/wiki/Cookbook:Sweet_Potato" title="Cookbook:Sweet Potato">Sweet Potato</a></li>
+<li><a href="/wiki/Cookbook:Sweetcorn" class="mw-redirect" title="Cookbook:Sweetcorn">Sweetcorn</a></li>
+<li><a href="/wiki/Cookbook:Sweeteners" title="Cookbook:Sweeteners">Sweeteners</a>
+<ul><li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Baking sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Bar sugar</a></li>
+<li><a href="/wiki/Cookbook:Brown_Sugar" title="Cookbook:Brown Sugar">Brown sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Cane_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Cane sugar (does not exist)">Cane sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Caster sugar</a></li>
+<li><a href="/wiki/Cookbook:Chocolate" title="Cookbook:Chocolate">Chocolate</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Confectioners' sugar</a></li>
+<li><a href="/wiki/Cookbook:Corn_Syrup" title="Cookbook:Corn Syrup">Corn syrup</a></li>
+<li><a href="/wiki/Cookbook:Demerara_Sugar" title="Cookbook:Demerara Sugar">Demerara sugar</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fructose</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fruit sugar</a></li>
+<li><a href="/wiki/Cookbook:Granulated_Sugar" title="Cookbook:Granulated Sugar">Granulated sugar</a></li>
+<li><a href="/wiki/Cookbook:Honey" title="Cookbook:Honey">Honey</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Icing sugar</a></li>
+<li><a href="/wiki/Cookbook:Isomalt" title="Cookbook:Isomalt">Isomalt</a></li>
+<li><a href="/wiki/Cookbook:Jaggery" title="Cookbook:Jaggery">Jaggery</a></li>
+<li><a href="/wiki/Cookbook:Maple_Syrup" title="Cookbook:Maple Syrup">Maple syrup</a></li>
+<li><a href="/wiki/Cookbook:Powdered_sugar" class="mw-redirect" title="Cookbook:Powdered sugar">Powdered sugar</a></li>
+<li><a href="/wiki/Cookbook:Raw_Sugar" title="Cookbook:Raw Sugar">Raw sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Refined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Refined sugar (does not exist)">Refined sugar</a></li>
+<li><a href="/wiki/Cookbook:Rock_Sugar" title="Cookbook:Rock Sugar">Rock sugar</a></li>
+<li><a href="/wiki/Cookbook:Sugar" title="Cookbook:Sugar">Sugar</a>
+<ul><li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Baking sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Bar sugar</a></li>
+<li><a href="/wiki/Cookbook:Brown_Sugar" title="Cookbook:Brown Sugar">Brown sugar</a></li>
+<li><a href="/wiki/Cookbook:Castor_sugar" class="mw-redirect" title="Cookbook:Castor sugar">Castor sugar</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Confectioners' sugar</a></li>
+<li><a href="/wiki/Cookbook:Demerara_Sugar" title="Cookbook:Demerara Sugar">Demerara sugar</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fructose</a></li>
+<li><a href="/wiki/Cookbook:Fructose" title="Cookbook:Fructose">Fruit sugar</a></li>
+<li><a href="/wiki/Cookbook:Granulated_Sugar" title="Cookbook:Granulated Sugar">Granulated sugar</a></li>
+<li><a href="/wiki/Cookbook:Confectioners%27_sugar" class="mw-redirect" title="Cookbook:Confectioners&#39; sugar">Icing sugar</a></li>
+<li><a href="/wiki/Cookbook:Jaggery" title="Cookbook:Jaggery">Jaggery</a></li>
+<li><a href="/wiki/Cookbook:Powdered_sugar" class="mw-redirect" title="Cookbook:Powdered sugar">Powdered sugar</a></li>
+<li><a href="/wiki/Cookbook:Raw_Sugar" title="Cookbook:Raw Sugar">Raw sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Refined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Refined sugar (does not exist)">Refined sugar</a></li>
+<li><a href="/wiki/Cookbook:Rock_Sugar" title="Cookbook:Rock Sugar">Rock sugar</a></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Superfine sugar</a></li>
+<li><a href="/wiki/Cookbook:Turbanado_sugar" class="mw-redirect" title="Cookbook:Turbanado sugar">Turbanado sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Unrefined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Unrefined sugar (does not exist)">Unrefined sugar</a></li>
+<li><a href="/wiki/Cookbook:White_sugar" class="mw-redirect" title="Cookbook:White sugar">White sugar</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Caster_sugar" class="mw-redirect" title="Cookbook:Caster sugar">Superfine sugar</a></li>
+<li><a href="/wiki/Cookbook:Turbanado_sugar" class="mw-redirect" title="Cookbook:Turbanado sugar">Turbanado sugar</a></li>
+<li><a href="/w/index.php?title=Cookbook:Unrefined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Unrefined sugar (does not exist)">Unrefined sugar</a></li>
+<li><a href="/wiki/Cookbook:White_sugar" class="mw-redirect" title="Cookbook:White sugar">White sugar</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Tahini" title="Cookbook:Tahini">Tahini</a></li>
+<li><a href="/wiki/Cookbook:Teff" title="Cookbook:Teff">Teff</a></li>
+<li><a href="/wiki/Cookbook:Tomato" title="Cookbook:Tomato">Tomato</a></li>
+<li><a href="/wiki/Cookbook:Trout" title="Cookbook:Trout">Trout</a></li>
+<li><a href="/w/index.php?title=Cookbook:Tubers&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Tubers (does not exist)">Tubers</a>
+<ul><li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Jerusalem artichoke</a></li>
+<li><a href="/wiki/Cookbook:Jicama" title="Cookbook:Jicama">Jicama</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Kumara</a></li>
+<li><a href="/wiki/Cookbook:Potato" title="Cookbook:Potato">Potato</a></li>
+<li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Sunchoke</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Sweet Potato</a></li>
+<li><a href="/wiki/Cookbook:Taro_Root" title="Cookbook:Taro Root">Taro</a></li>
+<li><a href="/wiki/Cookbook:Yam" title="Cookbook:Yam">Yam</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Tuna" title="Cookbook:Tuna">Tuna</a></li>
+<li><a href="/wiki/Cookbook:Turbanado_sugar" class="mw-redirect" title="Cookbook:Turbanado sugar">Turbanado sugar</a></li>
+<li><a href="/wiki/Cookbook:Turnip" title="Cookbook:Turnip">Turnip</a></li></ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=20" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Cookbook:Unrefined_sugar&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Unrefined sugar (does not exist)">Unrefined sugar</a></li></ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Vanilla" title="Cookbook:Vanilla">Vanilla</a></li>
+<li><a href="/wiki/Cookbook:Vegetable" title="Cookbook:Vegetable">Vegetables</a>
+<ul><li><a href="/wiki/Cookbook:Acorn_Squash" title="Cookbook:Acorn Squash">Acorn squash</a></li>
+<li><a href="/wiki/Cookbook:Alfalfa" title="Cookbook:Alfalfa">Alfalfa Sprouts</a></li>
+<li><a href="/wiki/Cookbook:Artichoke" title="Cookbook:Artichoke">Artichoke</a></li>
+<li><a href="/wiki/Cookbook:Arugula" title="Cookbook:Arugula">Arugula</a></li>
+<li><a href="/wiki/Cookbook:Asparagus" title="Cookbook:Asparagus">Asparagus</a></li>
+<li><a href="/wiki/Cookbook:Aubergine" class="mw-redirect" title="Cookbook:Aubergine">Aubergine</a></li>
+<li><a href="/wiki/Cookbook:Avocado" title="Cookbook:Avocado">Avocado</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Bell peppers</a></li>
+<li><a href="/wiki/Cookbook:Brassicas" title="Cookbook:Brassicas">Brassicas</a> (Cabbage family)
+<ul><li><a href="/wiki/Cookbook:Bok_Choy" title="Cookbook:Bok Choy">Bok choy</a></li>
+<li><a href="/wiki/Cookbook:Broccoflower" title="Cookbook:Broccoflower">Broccoflower</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli" title="Cookbook:Broccoli">Broccoli</a></li>
+<li><a href="/wiki/Cookbook:Broccolini" title="Cookbook:Broccolini">Broccolini</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli_rabe" class="mw-redirect" title="Cookbook:Broccoli rabe">Broccoli rabe</a></li>
+<li><a href="/wiki/Cookbook:Brussels_Sprout" title="Cookbook:Brussels Sprout">Brussels Sprouts</a></li>
+<li><a href="/wiki/Cookbook:Cabbage" title="Cookbook:Cabbage">Cabbage</a></li>
+<li><a href="/wiki/Cookbook:Cauliflower" title="Cookbook:Cauliflower">Cauliflower</a></li>
+<li><a href="/wiki/Cookbook:Chinese_Leaves" title="Cookbook:Chinese Leaves">Chinese leaves</a></li>
+<li><a href="/wiki/Cookbook:Collard_Green" class="mw-redirect" title="Cookbook:Collard Green">Collard greens</a></li>
+<li><a href="/wiki/Cookbook:Kohlrabi" title="Cookbook:Kohlrabi">Kohlrabi</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Broad_Bean" title="Cookbook:Broad Bean">Broad beans</a></li>
+<li><a href="/wiki/Cookbook:Broccoflower" title="Cookbook:Broccoflower">Broccoflower</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli" title="Cookbook:Broccoli">Broccoli</a></li>
+<li><a href="/wiki/Cookbook:Broccolini" title="Cookbook:Broccolini">Broccolini</a> (a hybrid)</li>
+<li><a href="/wiki/Cookbook:Broccoli_rabe" class="mw-redirect" title="Cookbook:Broccoli rabe">Broccoli rabe</a></li>
+<li><a href="/wiki/Cookbook:Brussels_Sprout" title="Cookbook:Brussels Sprout">Brussels Sprouts</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut squash</a></li>
+<li><a href="/wiki/Cookbook:Cabbage" title="Cookbook:Cabbage">Cabbage</a></li>
+<li><a href="/wiki/Cookbook:Calabrese" class="mw-redirect" title="Cookbook:Calabrese">Calabrese</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Capsicum</a></li>
+<li><a href="/wiki/Cookbook:Carrot" title="Cookbook:Carrot">Carrot</a></li>
+<li><a href="/wiki/Cookbook:Cauliflower" title="Cookbook:Cauliflower">Cauliflower</a></li>
+<li><a href="/wiki/Cookbook:Celeriac" class="mw-redirect" title="Cookbook:Celeriac">Celeriac</a></li>
+<li><a href="/wiki/Cookbook:Celery" title="Cookbook:Celery">Celery</a></li>
+<li><a href="/wiki/Cookbook:Chard" class="mw-redirect" title="Cookbook:Chard">Chard</a></li>
+<li><a href="/wiki/Cookbook:Chicory" title="Cookbook:Chicory">Chicory</a></li>
+<li><a href="/wiki/Cookbook:Chinese_Leaves" title="Cookbook:Chinese Leaves">Chinese leaves</a></li>
+<li><a href="/wiki/Cookbook:Chives" class="mw-redirect" title="Cookbook:Chives">Chives</a></li>
+<li><a href="/wiki/Cookbook:Collard_Green" class="mw-redirect" title="Cookbook:Collard Green">Collard greens</a></li>
+<li><a href="/wiki/Cookbook:Courgette" class="mw-redirect" title="Cookbook:Courgette">Courgette</a></li>
+<li><a href="/wiki/Cookbook:Cucumber" title="Cookbook:Cucumber">Cucumber</a></li>
+<li><a href="/wiki/Cookbook:Daikon" title="Cookbook:Daikon">Daikon</a></li>
+<li><a href="/wiki/Cookbook:Eggplant" title="Cookbook:Eggplant">Eggplant</a></li>
+<li><a href="/wiki/Cookbook:Endive" title="Cookbook:Endive">Endive</a></li>
+<li><a href="/wiki/Cookbook:Fiddlehead" title="Cookbook:Fiddlehead">Fiddlehead fern</a> (young coiled fern leaves)</li>
+<li><a href="/wiki/Cookbook:Frisee" title="Cookbook:Frisee">Frisee</a></li>
+<li><a href="/wiki/Cookbook:Broad_Bean" title="Cookbook:Broad Bean">Ful</a></li>
+<li><a href="/wiki/Cookbook:Garlic" title="Cookbook:Garlic">Garlic</a></li>
+<li><a href="/wiki/Cookbook:Gem_squash" class="mw-redirect" title="Cookbook:Gem squash">Gem squash</a></li>
+<li><a href="/wiki/Cookbook:Ginger" title="Cookbook:Ginger">Ginger</a></li>
+<li><a href="/wiki/Cookbook:Green_onion" class="mw-redirect" title="Cookbook:Green onion">Green onion</a></li>
+<li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Jerusalem artichoke</a></li>
+<li><a href="/wiki/Cookbook:Jicama" title="Cookbook:Jicama">Jicama</a></li>
+<li><a href="/wiki/Cookbook:Kale" title="Cookbook:Kale">Kale</a></li>
+<li><a href="/wiki/Cookbook:Kohlrabi" title="Cookbook:Kohlrabi">Kohlrabi</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Kumara</a></li>
+<li><a href="/wiki/Cookbook:Leek" title="Cookbook:Leek">Leek</a></li>
+<li><a href="/wiki/Cookbook:Legume" class="mw-redirect" title="Cookbook:Legume">Legumes</a> (Beans and Peas)
+<ul><li><a href="/wiki/Cookbook:Pea" title="Cookbook:Pea">Peas</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Lettuce" title="Cookbook:Lettuce">Lettuce</a></li>
+<li><a href="/wiki/Cookbook:Okra" title="Cookbook:Okra">Okra</a></li>
+<li><a href="/wiki/Cookbook:Onion" title="Cookbook:Onion">Onion</a> family
+<ul><li><a href="/wiki/Cookbook:Chives" class="mw-redirect" title="Cookbook:Chives">Chives</a></li>
+<li><a href="/wiki/Cookbook:Garlic" title="Cookbook:Garlic">Garlic</a></li>
+<li><a href="/wiki/Cookbook:Green_onion" class="mw-redirect" title="Cookbook:Green onion">Green onion</a></li>
+<li><a href="/wiki/Cookbook:Leek" title="Cookbook:Leek">Leek</a></li>
+<li><a href="/wiki/Cookbook:Onion" title="Cookbook:Onion">Onion</a></li>
+<li><a href="/wiki/Cookbook:Scallion" class="mw-redirect" title="Cookbook:Scallion">Scallion</a></li>
+<li><a href="/wiki/Cookbook:Shallot" title="Cookbook:Shallot">Shallot</a></li>
+<li><a href="/wiki/Cookbook:Spring_Onion" class="mw-redirect" title="Cookbook:Spring Onion">Spring onion</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Pea" title="Cookbook:Pea">Peas</a></li>
+<li><a href="/wiki/Cookbook:Capsicum" class="mw-redirect" title="Cookbook:Capsicum">Peppers</a></li>
+<li><a href="/wiki/Cookbook:Potato" title="Cookbook:Potato">Potatoes</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin" title="Cookbook:Pumpkin">Pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Radish" title="Cookbook:Radish">Radish</a></li>
+<li>Root vegetables
+<ul><li><a href="/wiki/Cookbook:Carrot" title="Cookbook:Carrot">Carrot</a></li>
+<li><a href="/wiki/Cookbook:Celeriac" class="mw-redirect" title="Cookbook:Celeriac">Celeriac</a></li>
+<li><a href="/wiki/Cookbook:Daikon" title="Cookbook:Daikon">Daikon</a></li>
+<li><a href="/wiki/Cookbook:Ginger" title="Cookbook:Ginger">Ginger</a></li>
+<li><a href="/wiki/Cookbook:Radish" title="Cookbook:Radish">Radish</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Scallion" class="mw-redirect" title="Cookbook:Scallion">Scallion</a></li>
+<li><a href="/wiki/Cookbook:Shallot" title="Cookbook:Shallot">Shallot</a></li>
+<li><a href="/wiki/Cookbook:Soybean" class="mw-redirect" title="Cookbook:Soybean">Soybean</a></li>
+<li><a href="/wiki/Cookbook:Spaghetti_Squash" title="Cookbook:Spaghetti Squash">Spaghetti squash</a></li>
+<li><a href="/wiki/Cookbook:Spinach" title="Cookbook:Spinach">Spinach</a></li>
+<li><a href="/wiki/Cookbook:Spring_Onion" class="mw-redirect" title="Cookbook:Spring Onion">Spring onion</a></li>
+<li><a href="/wiki/Cookbook:Squash" title="Cookbook:Squash">Squash</a> family
+<ul><li><a href="/wiki/Cookbook:Acorn_Squash" title="Cookbook:Acorn Squash">Acorn squash</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Butternut_Squash" title="Cookbook:Butternut Squash">Butternut squash</a></li>
+<li><a href="/wiki/Cookbook:Courgette" class="mw-redirect" title="Cookbook:Courgette">Courgette</a></li>
+<li><a href="/wiki/Cookbook:Cucumber" title="Cookbook:Cucumber">Cucumber</a></li>
+<li><a href="/wiki/Cookbook:Gem_squash" class="mw-redirect" title="Cookbook:Gem squash">Gem squash</a></li>
+<li><a href="/wiki/Cookbook:Pumpkin" title="Cookbook:Pumpkin">Pumpkin</a></li>
+<li><a href="/wiki/Cookbook:Spaghetti_Squash" title="Cookbook:Spaghetti Squash">Spaghetti squash</a></li>
+<li><a href="/wiki/Cookbook:Squash" title="Cookbook:Squash">Squash</a></li>
+<li><a href="/wiki/Cookbook:Zucchini" title="Cookbook:Zucchini">Zucchini</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Sunchoke</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Sweet Potato</a></li>
+<li><a href="/w/index.php?title=Cookbook:Taro&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Taro (does not exist)">Taro</a></li>
+<li><a href="/wiki/Cookbook:Tomato" title="Cookbook:Tomato">Tomato</a> (actually a fruit, but treated as a vegetable)</li>
+<li><a href="/w/index.php?title=Cookbook:Tubers&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Tubers (does not exist)">Tubers</a>
+<ul><li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Jerusalem artichoke</a></li>
+<li><a href="/wiki/Cookbook:Jicama" title="Cookbook:Jicama">Jicama</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Kumara</a></li>
+<li><a href="/wiki/Cookbook:Potato" title="Cookbook:Potato">Potato</a></li>
+<li><a href="/wiki/Cookbook:Jerusalem_Artichoke" class="mw-redirect" title="Cookbook:Jerusalem Artichoke">Sunchoke</a></li>
+<li><a href="/wiki/Cookbook:Kumara" class="mw-redirect" title="Cookbook:Kumara">Sweet Potato</a></li>
+<li><a href="/w/index.php?title=Cookbook:Taro&amp;action=edit&amp;redlink=1" class="new" title="Cookbook:Taro (does not exist)">Taro</a></li>
+<li><a href="/wiki/Cookbook:Yam" title="Cookbook:Yam">Yam</a></li></ul></li>
+<li><a href="/wiki/Cookbook:Watercress" title="Cookbook:Watercress">Watercress</a></li>
+<li><a href="/wiki/Cookbook:Yam" title="Cookbook:Yam">Yam</a></li>
+<li><a href="/wiki/Cookbook:Zucchini" title="Cookbook:Zucchini">Zucchini</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Watercress" title="Cookbook:Watercress">Watercress</a></li>
+<li><a href="/wiki/Cookbook:Watermelon" title="Cookbook:Watermelon">Watermelon</a></li>
+<li><a href="/wiki/Cookbook:White_sugar" class="mw-redirect" title="Cookbook:White sugar">White sugar</a></li>
+<li><a href="/wiki/Cookbook:White_mushroom" class="mw-redirect" title="Cookbook:White mushroom">White mushroom</a></li></ul>
+<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=23" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Xanthan_gum" class="mw-redirect" title="Cookbook:Xanthan gum">Xanthan gum</a></li></ul>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=24" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Yam" title="Cookbook:Yam">Yam</a></li>
+<li><a href="/wiki/Cookbook:Yeast" title="Cookbook:Yeast">Yeast</a></li></ul>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit&amp;section=25" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cookbook:Zucchini" title="Cookbook:Zucchini">Zucchini</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20181220162309
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.139 seconds
+Preprocessor visited node count: 582/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 251/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.028      1 Template:Cooknav
+100.00%    3.028      1 -total
+-->
+
+<!-- Saved in parser cache with key enwikibooks:pcache:idhash:15862-0!canonical and timestamp 20181220162308 and revision id 3357193
+ -->
+</div><noscript><img src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikibooks.org/w/index.php?title=Cookbook:Ingredients&amp;oldid=3357193">https://en.wikibooks.org/w/index.php?title=Cookbook:Ingredients&amp;oldid=3357193</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">More</a>: <ul><li><a href="/wiki/Category:Ingredients" title="Category:Ingredients">Ingredients</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Cookbook" title="Category:Cookbook">Cookbook</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Discussion for this IP address</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cookbook%3AIngredients" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cookbook%3AIngredients" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-cookbook" class="selected"><span><a href="/wiki/Cookbook:Ingredients">Recipe</a></span></li><li id="ca-talk"><span><a href="/wiki/Cookbook_talk:Ingredients" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cookbook:Ingredients">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikibooks" title="Search Wikibooks [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-Navigation" aria-labelledby="p-Navigation-label">
+			<h3 id="p-Navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="Find help on how to use and edit Wikibooks">Help</a></li><li id="n-Browse"><a href="/wiki/Wikibooks:Card_Catalog_Office" title="Check out what Wikibooks has to offer">Browse</a></li><li id="n-Cookbook"><a href="/wiki/Cookbook:Table_of_Contents" title="Learn recipes from around the world">Cookbook</a></li><li id="n-Wikijunior"><a href="/wiki/Wikijunior" title="Books for children">Wikijunior</a></li><li id="n-Featured-books"><a href="/wiki/Wikibooks:Featured_books" title="The best of Wikibooks">Featured books</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikibooks.org&amp;uselang=en" title="Support Wikibooks">Donations</a></li><li id="n-randomrootpage"><a href="/wiki/Special:RandomInCategory/Book:Wikibooks_Stacks/Books">Random book</a></li><li id="n-Using-Wikibooks"><a href="/wiki/Using_Wikibooks">Using Wikibooks</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Community" aria-labelledby="p-Community-label">
+			<h3 id="p-Community-label">Community</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Reading-room"><a href="/wiki/Wikibooks:Reading_room" title="Discuss Wikibooks-related questions and concerns with others">Reading room</a></li><li id="n-portal"><a href="/wiki/Wikibooks:Community_Portal" title="Find your way around the Wikibooks community">Community portal</a></li><li id="n-currentevents"><a href="/wiki/Wikibooks:Reading_room/Bulletin_Board" title="Important community news">Bulletin Board</a></li><li id="n-maintenance"><a href="/wiki/Wikibooks:Maintenance" title="Frequent tasks that you can help with">Help out!</a></li><li id="n-Policies-and-guidelines"><a href="/wiki/Wikibooks:Policies_and_guidelines" title="Pages detailing important rules and procedures">Policies and guidelines</a></li><li id="n-contact"><a href="/wiki/Wikibooks:Contact_us" title="Alternative methods of communication">Contact us</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cookbook:Ingredients" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cookbook:Ingredients" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cookbook:Ingredients&amp;oldid=3357193" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cookbook:Ingredients&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cookbook%3AIngredients&amp;id=3357193" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In other languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikibooks.org/wiki/Artes_culinarias/Ingredientes" title="Artes culinarias/Ingredientes – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikibooks.org/wiki/Livre_de_cuisine/Ingr%C3%A9dients" title="Livre de cuisine/Ingrédients – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikibooks.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%9E%D7%AA%D7%9B%D7%95%D7%A0%D7%99%D7%9D/%D7%9E%D7%A8%D7%9B%D7%99%D7%91%D7%99%D7%9D" title="ספר מתכונים/מרכיבים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikibooks.org/wiki/%D4%B5%D6%83%D5%B8%D6%82%D5%A9%D5%B8%D6%82%D5%AD:%D4%B2%D5%A1%D5%B2%D5%A1%D5%A4%D6%80%D5%A1%D5%B4%D5%A1%D5%BD%D5%A5%D6%80" title="Եփութուխ:Բաղադրամասեր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=enwikibooks&amp;page=Cookbook%3AIngredients" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Sister_projects" aria-labelledby="p-Sister_projects-label">
+			<h3 id="p-Sister_projects-label">Sister projects</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li><li id="n-Wikiversity"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page">Wikiversity</a></li><li id="n-Wiktionary"><a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page">Wiktionary</a></li><li id="n-Wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></li><li id="n-Wikisource"><a href="https://en.wikisource.org/wiki/Main_Page">Wikisource</a></li><li id="n-Wikinews"><a href="https://en.wikinews.org/wiki/Main_Page">Wikinews</a></li><li id="n-Wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page">Wikivoyage</a></li><li id="n-Commons"><a href="https://commons.wikimedia.org/wiki/Main_Page">Commons</a></li><li id="n-Wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cookbook%3AIngredients">Create a collection</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cookbook%3AIngredients&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cookbook:Ingredients&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 January 2018, at 15:41.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License.</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikibooks:Welcome" title="Wikibooks:Welcome">About Wikibooks</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikibooks:General_disclaimer" title="Wikibooks:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikibooks.org/w/index.php?title=Cookbook:Ingredients&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.139","ppvisitednodes":{"value":582,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":251,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    3.028      1 Template:Cooknav","100.00%    3.028      1 -total"]},"cachereport":{"origin":"mw1263","timestamp":"20181220162309","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1319"});});</script>
+	</body>
+</html>
