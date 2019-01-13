@@ -8,6 +8,12 @@ fetched_ing = response.read()
 with open("Ingredients HTML.html", "w") as ing_html:
 	ing_html.write(fetched_ing)
 
+with open("Ingredients HTML.html") as html_file:
+	soup = BeautifulSoup(html_file, features="lxml")
+
+with open("Ingredients HTML.html", "w") as ing_html:
+	ing_html.write(str(soup))
+
 """
 "Imports the HTML code into a variable.
 
