@@ -1,8 +1,13 @@
 from markov_python.cc_markov import MarkovChain 
 import urllib2
+from bs4 import BeautifulSoup
 
 response = urllib2.urlopen("https://en.wikibooks.org/wiki/Cookbook:Ingredients")
-ingredients_html = response.read()
+fetched_ing = response.read()
+
+with open("Ingredients HTML.html", "w") as ing_html:
+	ing_html.write(fetched_ing)
+
 """
 "Imports the HTML code into a variable.
 
@@ -16,4 +21,4 @@ ingredients_html = response.read()
 "What we need is between both: <li><a href"" title="">MapleSyrup</a></li>
 """
 
-print test
+
