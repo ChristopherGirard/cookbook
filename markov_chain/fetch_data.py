@@ -14,6 +14,11 @@ with open("Ingredients HTML.html") as html_file:
 with open("Ingredients HTML.html", "w") as ing_html:
 	ing_html.write(str(soup))
 
+for each in soup.find_all("a", string=True):
+  print(each.get_text())
+
+
+
 """
 "Imports the HTML code into a variable.
 
