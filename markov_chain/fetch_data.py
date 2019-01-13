@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 response = urllib2.urlopen("https://en.wikibooks.org/wiki/Cookbook:Ingredients")
 fetched_ing = response.read()
+ingr_list = []
 
 with open("Ingredients HTML.html", "w") as ing_html:
 	ing_html.write(fetched_ing)
@@ -15,7 +16,10 @@ with open("Ingredients HTML.html", "w") as ing_html:
 	ing_html.write(str(soup))
 
 for each in soup.find_all("a", string=True):
-  print(each.get_text())
+  if each.parent.name == "li":
+    print(each.get_text())
+  if each.get_text() == "Zucchini":
+  	break
 
 
 
