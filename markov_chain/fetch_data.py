@@ -8,10 +8,10 @@ class FetchData:
     fetched_ing = response.read()
     ingr_list = []
     
-    with open("Ingredients HTML.html", "w") as ing_html:
+    with open("Ingredients.html", "w") as ing_html:
     	ing_html.write(fetched_ing)
     
-    with open("Ingredients HTML.html") as html_file:
+    with open("Ingredients.html") as html_file:
     	soup = BeautifulSoup(html_file, features="lxml")
     
     for each in soup.find_all("a", string=True):
@@ -22,7 +22,7 @@ class FetchData:
       if each.get_text() == "Zucchini":
       	break
     
-    with open("Ingredients HTML.html", "w") as ing_html:
+    with open("Ingredients.html", "w") as ing_html:
     	ing_html.write(", ".join(ingr_list)) 
 
   def fetch_name():
@@ -36,7 +36,7 @@ class FetchData:
 
 
 #exemple of mc flow
-# mc.add_file("Ingredients HTML.html")
+# mc.add_file("Ingredients.html")
 # print mc.generate_text(max_length=5)
 
 
